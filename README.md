@@ -1,3 +1,3 @@
 # JavaScript🏵️
 
-Learning Javascript
+Learning JavaScript
